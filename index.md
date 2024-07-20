@@ -49,7 +49,7 @@ layout: default
 
                 </p>
                 <p>
-                  You can also find me on <a href="https://twitter.com/snehachid_108" target="_blank" rel="noreferrer noopener">Twitter</a> and <a href="https://github.com/seyonechithrananda" target="_blank" rel="noreferrer noopener">GitHub</a>.
+                  You can also find me on <a href="https://twitter.com/snehachid_108" target="_blank" rel="noreferrer noopener">Twitter</a>.
                 </p>
               </td>
               <td style="max-width:30%;vertical-align:text-top;padding-left:3%">
