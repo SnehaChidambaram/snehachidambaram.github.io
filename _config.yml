@@ -1,0 +1,22 @@
+timezone: America/Los_Angeles
+encoding: utf-8
+url: "https://snehachidambaram.github.io"
+title: "Sneha Chidambaram"
+description: "Personal website of Sneha Chidambaram."
+plugins:
+  - jemoji
+collections:
+  posts:
+    permalink: /blog/:slug:output_ext
+# github defaults
+lsi: false
+safe: true
+source: .
+incremental: false
+gist:
+  noscript: false
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
