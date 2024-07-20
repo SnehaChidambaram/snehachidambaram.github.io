@@ -42,7 +42,7 @@ layout: default
             <tr style="padding:0px">
               <td style="width:63%;vertical-align:top">
                 <p>
-                  Welcome to my page! I'm Sneha, a junior at Dublin High studying chemical biology in the context of cancer research. During my sophomore chemistry class, I began questioning why matter interacts the way it does, and as an aspiring physician since I was a child I was drawn to study the chemistry of living things.
+                  Welcome to my page! I'm Sneha, a junior at Dublin High studying chemical biology in the context of cancer research. During my sophomore chemistry class, I began questioning why matter interacts the way it does, and being an aspiring physician I was drawn to study the chemistry of living things.
                 </p>
                 <p>
                  Glycosylation is one of the most compositionally advanced and combinatorially diverse types of post-translational modifications. In fact, I was surprised to learn that due to the macro- and micro-heterogeneity of glycan attachment on peptides, many proteomics researchers decide to exclude them from their analytes altogether! As an aspiring oncologist-glycobiologist, <highlight>I see carbohydrate chemistry and proteomics as two sides of the same coin</highlight> – quantifiable alterations to cells’ glycosylation patterns clearly do not occur at random, and the search for a sugar trail in the language of cell surface glycans must carry forth as we attempt to elucidate molecular drivers of disease.
